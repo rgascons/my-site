@@ -17,10 +17,10 @@ const Home: NextPage = () => {
             Ricard Gascons
           </h1>
           <nav className={styles.icons}>
-            <a href='mailto:gascons1995@gmail.com'>email</a>
-            <a href=''>cv</a>
-            <a href='https://www.linkedin.com/in/ricard-gascons/'>ld</a>
-            <a href='https://github.com/rgascons'>gh</a>
+            <a href='mailto:gascons1995@gmail.com' target='_blank' rel='noreferrer'>email</a>
+            <a href='/resume.pdf' target='_blank' rel='noreferrer'>cv</a>
+            <a href='https://www.linkedin.com/in/ricard-gascons/' target='_blank' rel='noreferrer'>ld</a>
+            <a href='https://github.com/rgascons' target='_blank' rel='noreferrer'>gh</a>
           </nav>
         </header>
         
