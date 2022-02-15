@@ -1,5 +1,6 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
+import Image from 'next/image'
 import styles from '../styles/Index.module.css'
 
 const Home: NextPage = () => {
@@ -17,10 +18,19 @@ const Home: NextPage = () => {
             Ricard Gascons
           </h1>
           <nav className={styles.icons}>
-            <a href='mailto:gascons1995@gmail.com' target='_blank' rel='noreferrer'>email</a>
-            <a href='/resume.pdf' target='_blank' rel='noreferrer'>cv</a>
-            <a href='https://www.linkedin.com/in/ricard-gascons/' target='_blank' rel='noreferrer'>ld</a>
-            <a href='https://github.com/rgascons' target='_blank' rel='noreferrer'>gh</a>
+            
+            <a href='mailto:gascons1995@gmail.com' target='_blank' rel='noreferrer'>
+              <Image src='/svgs/email.svg' height={20} width={20}/>
+            </a>
+            <a href='/resume.pdf' target='_blank' rel='noreferrer'>
+              <Image src='/svgs/cv.svg' height={20} width={20}/>
+            </a>
+            <a href='https://github.com/rgascons' target='_blank' rel='noreferrer'>
+              <Image src='/svgs/gh.svg' height={20} width={20}/>
+            </a>
+            <a href='https://www.linkedin.com/in/ricard-gascons/' target='_blank' rel='noreferrer'>
+              <Image src='/svgs/ld.svg' height={20} width={20}/>
+            </a>
           </nav>
         </header>
         

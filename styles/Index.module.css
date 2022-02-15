@@ -8,7 +8,7 @@
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
+  padding: 4rem 0.5rem;
 
 }
 
@@ -55,8 +55,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #355b86;
+  border-color: #355b86;
 }
 
 .card h2 {
