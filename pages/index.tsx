@@ -40,14 +40,15 @@ const Home: NextPage = () => {
           <ul className={styles.list}>
             <li>Based out of Seattle, Washington, USA</li>
             <li>😺 and 🐶 lover</li>
+            <li>Skiing and Hiking are my passions</li>
           </ul>
         </section>
         <section>
           <h2 className={styles.subtitle}>What I do</h2>
           <ul className={styles.list}>
-            <li>React Experiences</li>
-            <li>Frontend arquitecture</li>
-            <li>React, Redux and Typescript</li>
+            <li>Full Stack Engineer</li>
+            <li>Professional experience with React, Typescript and Node</li>
+            <li>Building reliable, scalable systems for milions of users</li>
           </ul>
         </section>
         <section>
