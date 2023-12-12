@@ -46,7 +46,7 @@ const Home: NextPage = () => {
         <section>
           <h2 className={styles.subtitle}>What I do</h2>
           <ul className={styles.list}>
-            <li>Full Stack Engineer</li>
+            <li>Web Infrastructure Engineer</li>
             <li>Professional experience with React, Typescript and Node</li>
             <li>Building reliable, scalable systems for milions of users</li>
           </ul>
