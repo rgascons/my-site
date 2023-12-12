@@ -54,12 +54,16 @@ const Home: NextPage = () => {
         <section>
           <h2 className={styles.subtitle}>Side projects</h2>
           <div className={styles.grid}>
+            <a href="https://github.com/rgascons/symphony"
+               className={styles.card}>
+              <h2>Symphony</h2>
+              <p>Simple music player app written in NextJS, Tailwind, and tRPC.</p>
+            </a>
             <a href="https://github.com/rgascons/MiniBlockchain"
                className={styles.card}>
               <h2>MiniBlockchain &rarr;</h2>
               <p>Blockchain written in .NET Core that can mine/send/receive currency.</p>
             </a>
-
             <a href="https://github.com/jutge-org/cmm"
                className={styles.card}>
               <h2>Cmm &rarr;</h2>
