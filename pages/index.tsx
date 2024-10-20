@@ -57,7 +57,7 @@ const Home: NextPage = () => {
             <a href="https://github.com/rgascons/symphony"
                className={styles.card}>
               <h2>Symphony</h2>
-              <p>Simple music player app written in NextJS, Tailwind, and tRPC.</p>
+              <p>Simple music player app written in React, Tailwind, and tRPC.</p>
             </a>
             <a href="https://github.com/rgascons/MiniBlockchain"
                className={styles.card}>
