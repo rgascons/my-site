@@ -21,8 +21,38 @@
   font-family: Raleway;
 }
 
-.icons a {
-  display: block;
+.icons {
+  display: flex;
+  gap: 8px;
+  align-items: end;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.languageIcons {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.icon {
+  color: inherit;
+  background: none;
+  border: none;
+  font-size: 0.9rem;
+  padding: 0;
+  opacity: 0.6;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.icon:hover {
+  opacity: 1;
+}
+
+.icon[data-active="true"] {
+  opacity: 1;
+  text-decoration: underline;
 }
 
 .subtitle {

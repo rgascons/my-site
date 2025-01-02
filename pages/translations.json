@@ -1,0 +1,24 @@
+{
+    "en": {
+      "about": "About me",
+      "location": "Based out of Seattle, Washington, USA",
+      "pets": "😺 and 🐶 lover",
+      "hobbies": "Skiing and Hiking are my passions",
+      "work": "What I do",
+      "role": "Web Infrastructure Engineer",
+      "experience": "Professional experience with React, Typescript and Node",
+      "systems": "Building reliable, scalable systems for milions of users",
+      "projects": "Side projects"
+    },
+    "ca": {
+      "about": "Sobre mi",
+      "location": "Visc a Seattle, Washington, EUA",
+      "pets": "Amant dels 😺 i 🐶",
+      "hobbies": "L'esquí i el senderisme són les meves passions",
+      "work": "A què em dedico",
+      "role": "Enginyer d'Infraestructura Web",
+      "experience": "Experiència professional amb React, Typescript i Node",
+      "systems": "Desenvolupant sistemes fiables i escalables per a milions d'usuaris",
+      "projects": "Projectes personals"
+    }
+  }

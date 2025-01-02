@@ -1,9 +1,21 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Index.module.css'
+import { useState } from 'react';
+import type { NextPage } from 'next';
+import Head from 'next/head';
+import Image from 'next/image';
+import styles from '../styles/Index.module.css';
+import translations from './translations.json';
+
+type Language = 'en' | 'ca';
 
 const Home: NextPage = () => {
+  const [language, setLanguage] = useState<Language>('en');
+  const [translation, setTranslation] = useState<typeof translations['en']>(translations[language]);
+    
+  const handleLanguageChange = (lang: Language) => {
+    setLanguage(lang);
+    setTranslation(translations[lang]);
+  };
+
   return (
     <div className={styles.container}>
       <Head>
@@ -18,7 +30,22 @@ const Home: NextPage = () => {
             Ricard Gascons
           </h1>
           <nav className={styles.icons}>
-            
+            <div className={styles.languageIcons}>
+                <button
+                  onClick={() => handleLanguageChange('en')}
+                  className={styles.icon}
+                  data-active={language === 'en'}
+                >
+                  en
+                </button>
+                <button
+                  onClick={() => handleLanguageChange('ca')}
+                  className={styles.icon}
+                  data-active={language === 'ca'}
+                >
+                  ca
+                </button>
+            </div>
             <a href='mailto:gascons1995@gmail.com' target='_blank' rel='noreferrer'>
               <Image src='/svgs/email.svg' height={20} width={20}/>
             </a>
@@ -36,23 +63,23 @@ const Home: NextPage = () => {
         
 
         <section>
-          <h2 className={styles.subtitle}>About me</h2>
+          <h2 className={styles.subtitle}>{translation.about}</h2>
           <ul className={styles.list}>
-            <li>Based out of Seattle, Washington, USA</li>
-            <li>😺 and 🐶 lover</li>
-            <li>Skiing and Hiking are my passions</li>
+            <li>{translation.location}</li>
+            <li>{translation.pets}</li>
+            <li>{translation.hobbies}</li>
           </ul>
         </section>
         <section>
-          <h2 className={styles.subtitle}>What I do</h2>
+          <h2 className={styles.subtitle}>{translation.work}</h2>
           <ul className={styles.list}>
-            <li>Web Infrastructure Engineer</li>
-            <li>Professional experience with React, Typescript and Node</li>
-            <li>Building reliable, scalable systems for milions of users</li>
+            <li>{translation.role}</li>
+            <li>{translation.experience}</li>
+            <li>{translation.systems}</li>
           </ul>
         </section>
         <section>
-          <h2 className={styles.subtitle}>Side projects</h2>
+          <h2 className={styles.subtitle}>{translation.projects}</h2>
           <div className={styles.grid}>
             <a href="https://github.com/rgascons/symphony"
                className={styles.card}>
@@ -73,7 +100,7 @@ const Home: NextPage = () => {
         </section>
       </main>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
