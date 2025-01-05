@@ -65,12 +65,23 @@
 
 .grid {
   display: flex;
+  align-items: stretch;
   flex-wrap: wrap;
+  gap: 1rem;
   max-width: 800px;
 }
-  
+
+.cardWrapper {
+  flex: 1 1 300px;
+  min-width: 250px;
+  max-width: 300px;
+  position: relative;
+}
+
 .card {
-  margin: 1rem;
+  display: block;
+  height: 100%;
+  margin: 0;
   padding: 1.5rem;
   text-align: left;
   color: inherit;
@@ -78,8 +89,27 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
   font-family: Inconsolata;
+}
+
+.playButton {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  text-decoration: none;
+  color: inherit;
+  font-family: Inconsolata;
+  font-size: 0.9rem;
+  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.playButton:hover {
+  color: #0070f3;
+  border-color: #0070f3;
+  background-color: rgba(0, 112, 243, 0.05);
 }
 
 .card:hover,
