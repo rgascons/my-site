@@ -1,5 +1,6 @@
 import styles from '../styles/Index.module.css';
 import Image from 'next/image';
+import Link from 'next/link';
 
 export type Language = 'en' | 'ca';
 
@@ -17,9 +18,11 @@ export const Header = ({ handleLanguageChange, language, showHomeLink }: HeaderP
           Ricard Gascons
         </h1>
         {showHomeLink && (
-          <a href="/" className={styles.homeLink}>
-            ← Home
-          </a>
+          <Link href="/">
+            <a className={styles.homeLink}>
+              ← Home
+            </a>
+          </Link>
         )}
       </div>      
       <nav className={styles.icons}>
