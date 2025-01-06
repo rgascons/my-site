@@ -4,12 +4,16 @@
 .container {
   max-width: 900px;
   margin: auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .main {
-  min-height: 100vh;
-  padding: 4rem 0.5rem;
-
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0.5rem;
 }
 
 .header {
@@ -17,8 +21,27 @@
   justify-content: space-between;
 }
 
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+}
+
 .title {
   font-family: Raleway;
+}
+
+.homeLink {
+  display: block;
+  font-family: Inconsolata;
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+  margin-top: 0.5rem;
+}
+
+.homeLink:hover {
+  opacity: 1;
 }
 
 .icons {
@@ -135,4 +158,11 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.gameFrame {
+  flex: 1;
+  width: 100%;
+  border: none;
+  margin-top: 1rem;
 }

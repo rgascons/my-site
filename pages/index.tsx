@@ -1,11 +1,10 @@
 import { useState } from 'react';
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import Image from 'next/image';
+import Link from 'next/link';
 import styles from '../styles/Index.module.css';
 import translations from './translations.json';
-
-type Language = 'en' | 'ca';
+import { Header, type Language } from '../components/header';
 
 const Home: NextPage = () => {
   const [language, setLanguage] = useState<Language>('en');
@@ -25,43 +24,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <header className={styles.header}>
-          <h1 className={styles.title}>
-            Ricard Gascons
-          </h1>
-          <nav className={styles.icons}>
-            <div className={styles.languageIcons}>
-                <button
-                  onClick={() => handleLanguageChange('en')}
-                  className={styles.icon}
-                  data-active={language === 'en'}
-                >
-                  en
-                </button>
-                <button
-                  onClick={() => handleLanguageChange('ca')}
-                  className={styles.icon}
-                  data-active={language === 'ca'}
-                >
-                  ca
-                </button>
-            </div>
-            <a href='mailto:gascons1995@gmail.com' target='_blank' rel='noreferrer'>
-              <Image src='/svgs/email.svg' height={20} width={20}/>
-            </a>
-            <a href='/resume.pdf' target='_blank' rel='noreferrer'>
-              <Image src='/svgs/cv.svg' height={20} width={20}/>
-            </a>
-            <a href='https://github.com/rgascons' target='_blank' rel='noreferrer'>
-              <Image src='/svgs/gh.svg' height={20} width={20}/>
-            </a>
-            <a href='https://www.linkedin.com/in/ricard-gascons/' target='_blank' rel='noreferrer'>
-              <Image src='/svgs/ld.svg' height={20} width={20}/>
-            </a>
-          </nav>
-        </header>
-        
-
+        <Header handleLanguageChange={handleLanguageChange} language={language} />
         <section>
           <h2 className={styles.subtitle}>{translation.about}</h2>
           <ul className={styles.list}>
@@ -87,10 +50,11 @@ const Home: NextPage = () => {
                 <h2>Galore &rarr;</h2>
                 <p>Horde survival game with some roguelite elements. Based on Phaser, with a thin React layer on top.</p>
               </a>
-              <a href="/galore"
-                className={styles.playButton}>
-                Play
-              </a>
+              <Link href="/play-galore">
+                <a className={styles.playButton}>
+                  Play
+                </a>
+              </Link>
             </div>
             <div className={styles.cardWrapper}>
               <a href="https://github.com/rgascons/symphony"
