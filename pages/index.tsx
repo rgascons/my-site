@@ -57,6 +57,18 @@ const Home: NextPage = () => {
               </Link>
             </div>
             <div className={styles.cardWrapper}>
+              <a href="https://github.com/rgascons/query-pisos"
+                className={styles.card}>
+                <h2>Pisos Barcelona &rarr;</h2>
+                <p>Barcelona apartment price tracker. Built with React, Recharts, and the Penotariado API.</p>
+              </a>
+              <Link href="/view-pisos">
+                <a className={styles.playButton}>
+                  View
+                </a>
+              </Link>
+            </div>
+            <div className={styles.cardWrapper}>
               <a href="https://github.com/rgascons/symphony"
                 className={styles.card}>
                 <h2>Symphony &rarr;</h2>

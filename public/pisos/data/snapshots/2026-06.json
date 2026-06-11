@@ -1,0 +1,1266 @@
+{
+  "date": "2026-06",
+  "fetchedAt": "2026-06-10T01:19:06.669Z",
+  "data": [
+    {
+      "cp": "08010",
+      "precio_m2": 5843.529411,
+      "precio_medio": 620875,
+      "superficie_media": 106.25,
+      "total": 8,
+      "total_informados": 8,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08010",
+      "precio_m2": 5843.529411,
+      "precio_medio": 620875,
+      "superficie_media": 106.25,
+      "total": 8,
+      "total_informados": 8,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08010",
+      "precio_m2": 6108.563475,
+      "precio_medio": 839354.800078,
+      "superficie_media": 137.4062,
+      "total": 133,
+      "total_informados": 128,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08010",
+      "precio_m2": 6143.331195,
+      "precio_medio": 859240.373193,
+      "superficie_media": 139.8655,
+      "total": 124,
+      "total_informados": 119,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08010",
+      "precio_m2": 6122.022607,
+      "precio_medio": 853920.120083,
+      "superficie_media": 139.4833,
+      "total": 125,
+      "total_informados": 120,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08010",
+      "precio_m2": 6128.764399,
+      "precio_medio": 844225.231574,
+      "superficie_media": 137.748,
+      "total": 132,
+      "total_informados": 127,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08010",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08010",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 1,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08010",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 1,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 4647.610433,
+      "precio_medio": 353808.684308,
+      "superficie_media": 76.127,
+      "total": 667,
+      "total_informados": 622,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 4190.020505,
+      "precio_medio": 437857.142857,
+      "superficie_media": 104.5,
+      "total": 16,
+      "total_informados": 14,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 5621.287128,
+      "precio_medio": 454200,
+      "superficie_media": 80.8,
+      "total": 6,
+      "total_informados": 5,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 4633.896047,
+      "precio_medio": 355658.80761,
+      "superficie_media": 76.7515,
+      "total": 683,
+      "total_informados": 636,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 5621.287128,
+      "precio_medio": 454200,
+      "superficie_media": 80.8,
+      "total": 6,
+      "total_informados": 5,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 4642.000927,
+      "precio_medio": 356427.459656,
+      "superficie_media": 76.7831,
+      "total": 689,
+      "total_informados": 641,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 4190.020505,
+      "precio_medio": 437857.142857,
+      "superficie_media": 104.5,
+      "total": 16,
+      "total_informados": 14,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08028",
+      "precio_m2": 4655.847589,
+      "precio_medio": 354609.253014,
+      "superficie_media": 76.1642,
+      "total": 673,
+      "total_informados": 627,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08028",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 5542.774971,
+      "precio_medio": 441612.11204,
+      "superficie_media": 79.6734,
+      "total": 62,
+      "total_informados": 49,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 4483.413687,
+      "precio_medio": 321382.044961,
+      "superficie_media": 71.6824,
+      "total": 705,
+      "total_informados": 655,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 2998.474059,
+      "precio_medio": 491250,
+      "superficie_media": 163.8333,
+      "total": 25,
+      "total_informados": 24,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 4387.340781,
+      "precio_medio": 311660.471881,
+      "superficie_media": 71.0363,
+      "total": 643,
+      "total_informados": 606,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 2974.059662,
+      "precio_medio": 498478.260869,
+      "superficie_media": 167.6086,
+      "total": 24,
+      "total_informados": 23,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08014",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 1,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 5517.205096,
+      "precio_medio": 439279.8698,
+      "superficie_media": 79.62,
+      "total": 63,
+      "total_informados": 50,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 4271.181927,
+      "precio_medio": 318491.646995,
+      "superficie_media": 74.5675,
+      "total": 667,
+      "total_informados": 629,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08014",
+      "precio_m2": 4368.66676,
+      "precio_medio": 327386.214212,
+      "superficie_media": 74.9396,
+      "total": 730,
+      "total_informados": 679,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 7226.792959,
+      "precio_medio": 530366.305555,
+      "superficie_media": 73.3888,
+      "total": 26,
+      "total_informados": 18,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 5159.242365,
+      "precio_medio": 416797.331788,
+      "superficie_media": 80.7865,
+      "total": 566,
+      "total_informados": 520,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 1579.019607,
+      "precio_medio": 366045.454545,
+      "superficie_media": 231.8181,
+      "total": 11,
+      "total_informados": 11,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 5092.116079,
+      "precio_medio": 412725.137509,
+      "superficie_media": 81.0517,
+      "total": 540,
+      "total_informados": 502,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 1579.019607,
+      "precio_medio": 366045.454545,
+      "superficie_media": 231.8181,
+      "total": 11,
+      "total_informados": 11,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 4954.355181,
+      "precio_medio": 415745.974632,
+      "superficie_media": 83.9152,
+      "total": 577,
+      "total_informados": 531,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 4884.92805,
+      "precio_medio": 411724.208635,
+      "superficie_media": 84.2846,
+      "total": 551,
+      "total_informados": 513,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08015",
+      "precio_m2": 7226.792959,
+      "precio_medio": 530366.305555,
+      "superficie_media": 73.3888,
+      "total": 26,
+      "total_informados": 18,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08015",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 5661.478599,
+      "precio_medio": 485000,
+      "superficie_media": 85.6666,
+      "total": 7,
+      "total_informados": 6,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 5488.410018,
+      "precio_medio": 587845.525518,
+      "superficie_media": 107.1067,
+      "total": 358,
+      "total_informados": 328,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 3597.122302,
+      "precio_medio": 900000,
+      "superficie_media": 250.2,
+      "total": 13,
+      "total_informados": 10,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 3597.122302,
+      "precio_medio": 900000,
+      "superficie_media": 250.2,
+      "total": 13,
+      "total_informados": 10,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 5485.840262,
+      "precio_medio": 589761.90177,
+      "superficie_media": 107.5062,
+      "total": 351,
+      "total_informados": 322,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 5358.531543,
+      "precio_medio": 599106.422801,
+      "superficie_media": 111.8042,
+      "total": 364,
+      "total_informados": 332,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 5661.478599,
+      "precio_medio": 485000,
+      "superficie_media": 85.6666,
+      "total": 7,
+      "total_informados": 6,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08006",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08006",
+      "precio_m2": 5362.669262,
+      "precio_medio": 597080.865,
+      "superficie_media": 111.3402,
+      "total": 371,
+      "total_informados": 338,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08007",
+      "precio_m2": 7155.100658,
+      "precio_medio": 936107.323076,
+      "superficie_media": 130.8307,
+      "total": 69,
+      "total_informados": 65,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08007",
+      "precio_m2": 7146.296521,
+      "precio_medio": 927502.666666,
+      "superficie_media": 129.7878,
+      "total": 70,
+      "total_informados": 66,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08007",
+      "precio_m2": 7146.296521,
+      "precio_medio": 927502.666666,
+      "superficie_media": 129.7878,
+      "total": 70,
+      "total_informados": 66,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08007",
+      "precio_m2": 7155.100658,
+      "precio_medio": 936107.323076,
+      "superficie_media": 130.8307,
+      "total": 69,
+      "total_informados": 65,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08007",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08007",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08007",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08007",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 1,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08007",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 1,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08008",
+      "precio_m2": 15591.715976,
+      "precio_medio": 1317500,
+      "superficie_media": 84.5,
+      "total": 7,
+      "total_informados": 4,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08008",
+      "precio_m2": 7454.303225,
+      "precio_medio": 1040269.939529,
+      "superficie_media": 139.5529,
+      "total": 111,
+      "total_informados": 85,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08008",
+      "precio_m2": 7650.767385,
+      "precio_medio": 1051810.498444,
+      "superficie_media": 137.4777,
+      "total": 120,
+      "total_informados": 90,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08008",
+      "precio_m2": 15591.715976,
+      "precio_medio": 1317500,
+      "superficie_media": 84.5,
+      "total": 7,
+      "total_informados": 4,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08008",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 2,
+      "total_informados": null,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08008",
+      "precio_m2": 7679.749578,
+      "precio_medio": 1052729.717528,
+      "superficie_media": 137.0786,
+      "total": 118,
+      "total_informados": 89,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08008",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 2,
+      "total_informados": null,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08008",
+      "precio_m2": 7427.747807,
+      "precio_medio": 1039452.847209,
+      "superficie_media": 139.9418,
+      "total": 113,
+      "total_informados": 86,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08008",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08009",
+      "precio_m2": 6261.555775,
+      "precio_medio": 690010.401562,
+      "superficie_media": 110.1979,
+      "total": 102,
+      "total_informados": 96,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08009",
+      "precio_m2": 6242.212491,
+      "precio_medio": 693204.066836,
+      "superficie_media": 111.051,
+      "total": 105,
+      "total_informados": 98,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08009",
+      "precio_m2": 6305.199793,
+      "precio_medio": 694463.621717,
+      "superficie_media": 110.1414,
+      "total": 107,
+      "total_informados": 99,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08009",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 3,
+      "total_informados": null,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08009",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 3,
+      "total_informados": null,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08009",
+      "precio_m2": 6285.233632,
+      "precio_medio": 697474.243069,
+      "superficie_media": 110.9702,
+      "total": 110,
+      "total_informados": 101,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08009",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08009",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 5,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08009",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 5,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08011",
+      "precio_m2": 5773.363717,
+      "precio_medio": 521564.020813,
+      "superficie_media": 90.3397,
+      "total": 221,
+      "total_informados": 209,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08011",
+      "precio_m2": 6773.648648,
+      "precio_medio": 501250,
+      "superficie_media": 74,
+      "total": 5,
+      "total_informados": 4,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08011",
+      "precio_m2": 6773.648648,
+      "precio_medio": 501250,
+      "superficie_media": 74,
+      "total": 5,
+      "total_informados": 4,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08011",
+      "precio_m2": 5788.803272,
+      "precio_medio": 521182.536854,
+      "superficie_media": 90.0328,
+      "total": 226,
+      "total_informados": 213,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08011",
+      "precio_m2": 5813.184197,
+      "precio_medio": 525197.77417,
+      "superficie_media": 90.3459,
+      "total": 223,
+      "total_informados": 211,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08011",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08011",
+      "precio_m2": 5827.869742,
+      "precio_medio": 524752.234186,
+      "superficie_media": 90.0418,
+      "total": 228,
+      "total_informados": 215,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08011",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 2,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08011",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 2,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 5669.052084,
+      "precio_medio": 433594.364455,
+      "superficie_media": 76.4844,
+      "total": 413,
+      "total_informados": 386,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 5797.018304,
+      "precio_medio": 442387.516894,
+      "superficie_media": 76.3129,
+      "total": 457,
+      "total_informados": 425,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 2620.010376,
+      "precio_medio": 480959.047619,
+      "superficie_media": 183.5714,
+      "total": 23,
+      "total_informados": 21,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 2515.229211,
+      "precio_medio": 471857,
+      "superficie_media": 187.6,
+      "total": 21,
+      "total_informados": 20,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 5459.513742,
+      "precio_medio": 444203.665201,
+      "superficie_media": 81.3632,
+      "total": 480,
+      "total_informados": 446,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08005",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 2,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 7095.281786,
+      "precio_medio": 529417.179487,
+      "superficie_media": 74.6153,
+      "total": 44,
+      "total_informados": 39,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 5313.435452,
+      "precio_medio": 435479.223349,
+      "superficie_media": 81.9581,
+      "total": 434,
+      "total_informados": 406,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08005",
+      "precio_m2": 7072.774643,
+      "precio_medio": 532756.75,
+      "superficie_media": 75.325,
+      "total": 46,
+      "total_informados": 40,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08012",
+      "precio_m2": 2124.069638,
+      "precio_medio": 392244.86,
+      "superficie_media": 184.6666,
+      "total": 19,
+      "total_informados": 9,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08012",
+      "precio_m2": 5305.72306,
+      "precio_medio": 402472.148977,
+      "superficie_media": 75.8562,
+      "total": 330,
+      "total_informados": 313,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08012",
+      "precio_m2": 5079.894834,
+      "precio_medio": 400565.582406,
+      "superficie_media": 78.8531,
+      "total": 347,
+      "total_informados": 320,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08012",
+      "precio_m2": 2124.069638,
+      "precio_medio": 392244.86,
+      "superficie_media": 184.6666,
+      "total": 19,
+      "total_informados": 9,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08012",
+      "precio_m2": 5288.311171,
+      "precio_medio": 400806.375016,
+      "superficie_media": 75.7909,
+      "total": 328,
+      "total_informados": 311,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08012",
+      "precio_m2": 5097.57868,
+      "precio_medio": 402186.293074,
+      "superficie_media": 78.8975,
+      "total": 349,
+      "total_informados": 322,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08012",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08012",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 2,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08012",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": 2,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 4522.745467,
+      "precio_medio": 295910.235364,
+      "superficie_media": 65.4271,
+      "total": 518,
+      "total_informados": 494,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 6003.355704,
+      "precio_medio": 357800,
+      "superficie_media": 59.6,
+      "total": 5,
+      "total_informados": 5,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 4536.271996,
+      "precio_medio": 296530.373286,
+      "superficie_media": 65.3687,
+      "total": 523,
+      "total_informados": 499,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 5438.328912,
+      "precio_medio": 512562.5,
+      "superficie_media": 94.25,
+      "total": 17,
+      "total_informados": 16,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 4563.559557,
+      "precio_medio": 302707.169156,
+      "superficie_media": 66.3313,
+      "total": 535,
+      "total_informados": 510,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 4576.131985,
+      "precio_medio": 303242.051009,
+      "superficie_media": 66.266,
+      "total": 540,
+      "total_informados": 515,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 5438.328912,
+      "precio_medio": 512562.5,
+      "superficie_media": 94.25,
+      "total": 17,
+      "total_informados": 16,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08003",
+      "precio_m2": 6003.355704,
+      "precio_medio": 357800,
+      "superficie_media": 59.6,
+      "total": 5,
+      "total_informados": 5,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08003",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 4206.267267,
+      "precio_medio": 308797.0828,
+      "superficie_media": 73.4135,
+      "total": 501,
+      "total_informados": 457,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 3758.604376,
+      "precio_medio": 302657.142857,
+      "superficie_media": 80.5238,
+      "total": 22,
+      "total_informados": 21,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 3758.604376,
+      "precio_medio": 302657.142857,
+      "superficie_media": 80.5238,
+      "total": 22,
+      "total_informados": 21,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 4184.786664,
+      "precio_medio": 308527.336485,
+      "superficie_media": 73.7259,
+      "total": 523,
+      "total_informados": 478,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 4918.059701,
+      "precio_medio": 329510,
+      "superficie_media": 67,
+      "total": 10,
+      "total_informados": 4,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 4211.908061,
+      "precio_medio": 308976.804425,
+      "superficie_media": 73.3579,
+      "total": 511,
+      "total_informados": 461,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 4918.059701,
+      "precio_medio": 329510,
+      "superficie_media": 67,
+      "total": 10,
+      "total_informados": 4,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08019",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08019",
+      "precio_m2": 4190.320956,
+      "precio_medio": 308701.466473,
+      "superficie_media": 73.6701,
+      "total": 533,
+      "total_informados": 482,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08036",
+      "precio_m2": 5790.39743,
+      "precio_medio": 542346.582887,
+      "superficie_media": 93.6631,
+      "total": 204,
+      "total_informados": 187,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08036",
+      "precio_m2": 5790.39743,
+      "precio_medio": 542346.582887,
+      "superficie_media": 93.6631,
+      "total": 204,
+      "total_informados": 187,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08036",
+      "precio_m2": 5790.39743,
+      "precio_medio": 542346.582887,
+      "superficie_media": 93.6631,
+      "total": 204,
+      "total_informados": 187,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 14
+    },
+    {
+      "cp": "08036",
+      "precio_m2": 5790.39743,
+      "precio_medio": 542346.582887,
+      "superficie_media": 93.6631,
+      "total": 204,
+      "total_informados": 187,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08036",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 99,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08036",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 9,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08036",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 15
+    },
+    {
+      "cp": "08036",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 99
+    },
+    {
+      "cp": "08036",
+      "precio_m2": null,
+      "precio_medio": null,
+      "superficie_media": null,
+      "total": null,
+      "total_informados": null,
+      "tipo_construccion_id": 7,
+      "clase_finca_urbana_id": 14
+    }
+  ]
+}

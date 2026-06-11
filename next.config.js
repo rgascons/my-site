@@ -10,6 +10,14 @@ const nextConfig = {
       {
         source: '/galore/:path*',
         destination: '/galore/:path*'
+      },
+      {
+        source: '/pisos',
+        destination: '/pisos/index.html'
+      },
+      {
+        source: '/pisos/:path*',
+        destination: '/pisos/:path*'
       }
     ];
   },
@@ -18,6 +26,11 @@ const nextConfig = {
       {
         source: '/galore/index.html',
         destination: '/galore',
+        permanent: true,
+      },
+      {
+        source: '/pisos/index.html',
+        destination: '/pisos',
         permanent: true,
       },
     ]
